@@ -28,7 +28,8 @@ npx wrangler pages project create bilahaksara-web --production-branch=main
 npx wrangler pages deploy . --project-name=bilahaksara-web --branch=main
 ```
 
-Live URL shape: `https://bilahaksara-web.pages.dev` (plus preview URLs per deploy).
+**Live:** https://bilahaksara-web.pages.dev/  
+**Privacy:** https://bilahaksara-web.pages.dev/privacy/
 
 ### Git-connected (auto-deploy on push)
 
